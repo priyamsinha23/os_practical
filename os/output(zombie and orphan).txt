@@ -1,3 +1,0 @@
-Parent process (PID=1234) created a child process (PID=1235)
-Child process (PID=1235) is running
-Parent process exiting
